@@ -1,5 +1,5 @@
 _repo: English-as-She-is-Taught-Being-Genuine-Answers-to-Examination-Questions-in-Our-Public-Schools_61212
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   commentator:
     agent_name: Twain, Mark
@@ -20,7 +20,12 @@ contributor:
     birthdate: 1843
     gutenberg_agent_id: '51309'
     url: http://www.gutenberg.org/2009/agents/51309
+covers:
+- cover_type: archival
+  image_path: 61212-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61212#English-as-She-is-Taught-Being-Genuine-Answers-to-Examination-Questions-in-Our-Public-Schools
 gutenberg_issued: '2020-01-21'
 gutenberg_type: Text
 identifiers:
