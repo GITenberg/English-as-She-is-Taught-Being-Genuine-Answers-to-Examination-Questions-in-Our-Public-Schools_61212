@@ -1,0 +1,42 @@
+_repo: English-as-She-is-Taught-Being-Genuine-Answers-to-Examination-Questions-in-Our-Public-Schools_61212
+_version: 0.0.1
+contributor:
+  commentator:
+    agent_name: Twain, Mark
+    aliases:
+    - Twain, Mark (Samuel Clemens)
+    - Clemens, Samuel Langhorne
+    birthdate: 1835
+    deathdate: 1910
+    gutenberg_agent_id: '53'
+    url: http://www.gutenberg.org/2009/agents/53
+    wikipedia: http://en.wikipedia.org/wiki/Mark_Twain
+  compiler:
+    agent_name: Le Row, Caroline B. (Caroline Bigelow)
+    aliases:
+    - Row, Caroline B. (Caroline Bigelow le)
+    - Row, Caroline Bigelow Le
+    - Row, Caroline B. le
+    birthdate: 1843
+    gutenberg_agent_id: '51309'
+    url: http://www.gutenberg.org/2009/agents/51309
+description: ''
+gutenberg_issued: '2020-01-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61212'
+  lccn: '38025550'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'LB'
+- !lcsh 'English language -- Errors of usage -- Humor'
+- GITenberg
+tableOfContents: Etymological -- Grammatical -- Mathematical -- Geographical -- Original
+  -- Analytical -- Historical -- Intellectual -- Philosophical -- Physiological --
+  Astronomical -- Political -- Musical -- Oratorical -- Metaphysical.
+title: "English as She is Taught\r\nBeing Genuine Answers to Examination Questions\
+  \ in Our Public Schools"
+url: http://www.gutenberg.org/ebooks/61212
